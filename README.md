@@ -1,4 +1,5 @@
-##week 6 challenge##
+#week 6 challeng#
+
 montgomery college java web developer bootcamp
 
 Montgomery County is proud to announce it's new {sports} (you choose which) league for all children, and it's decided to hire you as it's full-stack developer! They want to create a website to display their current teams and each of the players in those teams.
